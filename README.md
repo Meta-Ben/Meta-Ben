@@ -2,7 +2,7 @@
 ### Welcome on my github profile ! 😸
 I'm a software engineer,
 
-I'm working on a lot of stuff Mobile📱, Web 💻, IOT 🤖 and also Games 👾
+I'm working on a lot of stuff : Mobile📱, Web 💻, IOT 🤖 and also Games 👾
 
 I also teach Android development at university ! 👨🏻‍🏫
 
